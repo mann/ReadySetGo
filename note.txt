@@ -1,1 +1,2 @@
 simple note file
+adding a new line to this exsting text file.
